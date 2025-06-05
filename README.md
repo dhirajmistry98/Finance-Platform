@@ -36,7 +36,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 Arcjet :Arcjet is used to protect web applications with a developer-friendly approach, offering tools for bot protection, rate limiting, email validation, attack protection, and more. It allows developers to implement these security measures with just a few lines of code, making it easy to integrate into existing applications.
+
 Inngest:Inngest is a platform used for building and managing reliable, event-driven workflows and background jobs.
+
 Clerk:Clerk is a third-party service that provides authentication and user management functionality for web applications. It simplifies the process of adding user authentication, including features like login via various methods, user management, and session management. 
 
 supabase:Supabase is an open-source, Backend-as-a-Service (BaaS) platform that simplifies application development by providing core backend functionalities like database, authentication, and storage
@@ -44,5 +46,9 @@ supabase:Supabase is an open-source, Backend-as-a-Service (BaaS) platform that s
 react email:React Email is a framework for creating emails using React components. It allows developers to build and send emails using React and TypeScript, leveraging the component-based architecture for creating HTML emails. 
 
 gemini  api AI: 
+
+
+
+Prisma ORM can be used in various ways to handle email-related tasks, particularly in conjunction with other tools like Prisma Cloud and Prisma Campaigns. 
 
 
