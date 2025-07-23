@@ -5,6 +5,8 @@ import TransactionTable from "../_components/transaction-table";
 import { BarLoader } from "react-spinners";
 import AccountChart from "../_components/account-chart";
 
+
+export const dynamic = 'force-dynamic'
 export default async function AccountPage({ params }) {
   const accountData = await getAccountWithTransactions(params.id);
   

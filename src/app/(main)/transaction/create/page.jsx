@@ -4,6 +4,8 @@ import { defaultCategories } from '@/data/categories';
 import AddTransactionForm from '../_components/transaction-form';
 import { getTransaction } from '../../../../../action/transction';
 
+
+export const dynamic = 'force-dynamic'
 const AddTransactionPage = async ({searchParams}) => {
 
   const accounts = await getUserAccounts();
